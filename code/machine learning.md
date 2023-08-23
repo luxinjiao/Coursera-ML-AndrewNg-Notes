@@ -13,13 +13,12 @@
 ---
 ghjh [this is a website](https://www.bilibili.com)
 
-这是一个链接 [Markdown语法](https://markdown.com.cn)。
-
+这是一个链接 [Markdown语法](https://markdown.com.cn)
 
 - [x] 读论文 :smiley:
 - [ ] 写总结 :joy:
 $
-\sigma 
+\sigma
 \alpha  
 \pi  
 $
@@ -35,4 +34,3 @@ $$\frac{2}{4}x=0.5x or {2 \over 4}x=0.5x$$
 
 > 我只是胡言乱语
 how to use github?
-
